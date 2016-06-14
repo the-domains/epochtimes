@@ -1,0 +1,14 @@
+layout_spectrum: 0.940058272331953
+typography_spectrum: 0.10579880769364536
+color:
+  brandStrength: 0.63762326980941
+  lightness: 0.30000758869573474
+  saturation: 0.23044207924976945
+  rhythmicContrast: 0.8838693820871413
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: epochtimes
