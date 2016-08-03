@@ -12,3 +12,7 @@ color:
     - '#7FB2F0'
     - '#ADD5F7'
 name: epochtimes
+navigation:
+  - name: Personal
+    url: hakemer.com
+    type: external
