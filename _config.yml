@@ -1,4 +1,3 @@
-layout_spectrum: 0.45258304523304105
 typography_spectrum: 0.8392142320517451
 color:
   brandStrength: 0.03188323345966637
@@ -11,8 +10,10 @@ color:
     - '#4E7AC7'
     - '#7FB2F0'
     - '#ADD5F7'
+layout_spectrum: 0.45258304523304105
 name: epochtimes
 navigation:
   - name: Personal
     url: hakemer.com
     type: external
+description: be what it is
